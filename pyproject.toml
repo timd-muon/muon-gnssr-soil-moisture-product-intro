@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "muon-gnssr-data-product-intro"
+description = "Package for demoing Muon's GNSS-R product files."
+readme = "README.md"
+version = "0.0.0"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy",
+  "matplotlib",
+  "ipykernel",
+  "sigmf",
+  "ipympl",
+  "pymap3d",
+  "geopandas",
+  "geodatasets",
+  "h5netcdf",
+  "cartopy",
+]
