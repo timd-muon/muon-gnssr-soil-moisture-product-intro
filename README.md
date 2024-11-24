@@ -1,4 +1,4 @@
-# muon-gnssr-data-product-intro
+# muon-gnssr-soil-moisture-product-intro
 Very simple jupyter-based introduction to the Muon Space GNSS-R soil moisture products.
 
 Tested on macOS (Sonoma 14.3.1)
