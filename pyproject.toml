@@ -19,4 +19,5 @@ dependencies = [
   "geodatasets",
   "h5netcdf",
   "cartopy",
+  "notebook",
 ]
